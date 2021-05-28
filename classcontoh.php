@@ -6,9 +6,11 @@ class manusia{
     function tampilkan_nama(){
         return $this->nama;
     }
+    
     function warna_kulit(){
         return $this->warna_kulit;
     }
+    
     function set_nama($nama){
         $this->nama=$nama;
     }
