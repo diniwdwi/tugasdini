@@ -1,6 +1,6 @@
 <?php
 // class, object, property, dan method
-class resti_class{
-    //resti teknik informatika
+class dini_class{
+    //dini teknik informatika
 }
 ?>
