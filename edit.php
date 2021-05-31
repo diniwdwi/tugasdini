@@ -4,7 +4,7 @@ $db = new database();
 ?>
 
 <h1>CRUD OOP PHP</h1>
-<h2>WWW.MALASNGODING.COM</h2>
+<h2>WWW.NGANTUKGAES.COM</h2>
 <h3>Edit Data User</h3>
 
 <form action="proses.php?aksi=update" method="post">
